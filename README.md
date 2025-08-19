@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasil-panoff
-- 👀 I’m interested in Linux, ksh, Oracle ANSI SQL, Python, Java
-- 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on Python, Java, SQL, ksh
+- 👀 I’m interested in AWS, Linux, KSH, Oracle ANSI SQL, Python, Java, QlikView
+- 🌱 I’m currently learning AWS, QlikView
+- 💞️ I’m looking to collaborate on AWS, Python, Java, SQL, KSH
 - 📫 You can reach me by email 
 
 <!---
